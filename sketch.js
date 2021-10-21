@@ -148,7 +148,7 @@ function draw() {
    btn.mousePressed(()=>{
        
     
-        var url="https://samuraivai2007.github.io/cm/"
+        var url="https://samuraivai2007.github.io/sillicon-project-part-a/"
         window.location.href=url
 
     });
